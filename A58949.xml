@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable warning to the Commons of England discovering to them their present danger, and the only means of escaping it, to be by a prudent choice of old English spirits, to serve their kind and countrey in the approaching Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58949</idno>
+            <idno type="STC">Wing S2248</idno>
+            <idno type="STC">ESTC R22124</idno>
+            <idno type="EEBO-CITATION">12059695</idno>
+            <idno type="OCLC">ocm 12059695</idno>
+            <idno type="VID">53199</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58949)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53199)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 579:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable warning to the Commons of England discovering to them their present danger, and the only means of escaping it, to be by a prudent choice of old English spirits, to serve their kind and countrey in the approaching Parliament.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>On the impeachment of Thomas Osborne, first duke of Leeds.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leeds, Thomas Osborne, --  Duke of, 1631-1712.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:53199:1" rendition="simple:additions"/>
+            <head>A SEASONABLE WARNING TO THE Commons of England; Diſcovering to them Their <hi>Preſent Danger,</hi> and the only means of <hi>Eſcaping</hi> it, to be by a Prudent Choice of <hi>old Engliſh Spirits,</hi> to ſerve their <hi>King</hi> and <hi>Countrey</hi> in the <hi>Approaching Parliament.</hi>
+            </head>
+            <p>LET my <hi>real Zeal</hi> atone my <hi>ſeeming Preſumption,</hi> if I, who am a <hi>part,</hi> though but a <hi>mean part</hi> of you, do humbly offer a Word of Advice to you; If the <hi>Members uni<g ref="char:EOLhyphen"/>ted</hi> may ſubmiſſively adviſe their <hi>Head,</hi> I hope a <hi>ſingle Member</hi> may Jog its Fellows, and mind them of their <hi>Danger</hi> and <hi>Duty.</hi> If you be <hi>happy,</hi> I ſhall ſhare in your <hi>happiness;</hi> and if you <hi>ſink,</hi> it will be my lot to <hi>ſink with you.</hi>
+            </p>
+            <p>I dare, without Vanity, profeſs, I have ſo much <hi>old Engliſh blood</hi> ſtill running in my Veins, as to ſcorn to <hi>out-live the wreck of my Native Countrey,</hi> and had rather ſink in the <hi>Publick Bot<g ref="char:EOLhyphen"/>tom,</hi> than by a baſe <hi>Subterfuge,</hi> ſave my ſelf in the <hi>Boat;</hi> I have no right to ſit at the <hi>Helm,</hi> I have no skill to manage the <hi>Tackling,</hi> yet let me deſcry a <hi>Rock</hi> upon which our <hi>Common In<g ref="char:EOLhyphen"/>tereſt</hi> is ready to be daſh't in pieces.</p>
+            <p>A <hi>Dumb Son</hi> once <hi>ſpoke,</hi> when the Sword was at his <hi>Father's Throat,</hi> and can I be ſilent when a ſecret Dagger is ready to be ſheath'd in my <hi>Mother's Bowels?</hi> The <hi>gagling of a Gooſe</hi> (ſay they) once ſaved <hi>Rome,</hi> from the Surprizal of the <hi>French;</hi> Let not then wholſom Counſel be deſpiſed from a Contemptible hand, which may poſſibly ſave <hi>England</hi> from the Deſigns both of <hi>Rome</hi> and <hi>France.</hi>
+            </p>
+            <p>There are many things that are <hi>importunate</hi> with me, to be ſo with you; and whilſt theſe important Matters ſound in my <hi>ears,</hi> I muſt Eccho them faithfully to <hi>yours.</hi>
+            </p>
+            <p n="1">1. I obſerve that your Friends and Enemies are <hi>agreed in this one point</hi> (perhaps 'tis the firſt time that ever they were, and the laſt that ever they will) <hi>That you have but one Throw more for your All:</hi> If you throw it <hi>ill;</hi> your <hi>Enemies</hi> are reſolved you ſhall never throw again for't; If <hi>well;</hi> your <hi>Friends</hi> hope you ſhall never need. 'Tis a Critical Moment: Upon your <hi>well,</hi> or <hi>ill Chooſing,</hi> depends your <hi>well,</hi> or <hi>ill Being;</hi> and you had need do that <hi>well,</hi> which you muſt never do <hi>but once;</hi> your Fate will not ſuffer you to Offend <hi>twice</hi> in this <hi>one parti<g ref="char:EOLhyphen"/>cular.</hi> I once ſtood by with trembling, to ſee the iſſue of two Condemned Perſons throw<g ref="char:EOLhyphen"/>ing Dice for their Lives, I hope you will therefore excuſe my concerned Fears, when the Die muſt be caſt for <hi>my own too.</hi>
+            </p>
+            <p n="2">2. Such is the <hi>happy Conſtitution,</hi> and <hi>frame of your Government,</hi> ſo <hi>prudently,</hi> ſo <hi>ſtrongly</hi> have your <hi>wary Anceſtors</hi> ſecured <hi>Property</hi> and <hi>Liberty</hi> (reſcued by Inches out of the Hands of En<g ref="char:EOLhyphen"/>croaching Violence) that you can never be <hi>Ruin'd,</hi> unleſs you become the <hi>Authors of your own Ruin;</hi> you cannot be Enſlav'd, but with <hi>Chains of your own making.</hi> As you are never <hi>undone,</hi> till you are <hi>undone by a Law,</hi> ſo you can never be <hi>undone by a Law,</hi> till you chuſe the <hi>undoing Legiſlators;</hi> And will it not be an <hi>aggravation of your miſery,</hi> that <hi>your ſelves</hi> have made <hi>your ſelves miſerable?</hi> Will not your Enemies add <hi>Scorn</hi> to their <hi>Cruelty,</hi> and pretend <hi>Ju<g ref="char:EOLhyphen"/>ſtice</hi> for both, when they can plead, That <hi>they had never trampled on your Heads, had you not laid them on the ground?</hi> And will not your <hi>Friends</hi> and <hi>Enemies</hi> abroad, the one with <hi>pity,</hi> the other with <hi>Scorn,</hi> object it to you, <hi>O England, thou haſt deſtroyed thy ſelf;</hi> whom all the World could not otherwiſe have deſtroyed?</p>
+            <p n="3">3. And you muſt conſider, that they whom you chooſe will repreſent <hi>your Qualities,</hi> as well as your <hi>Perſons;</hi> And if you ſend us up a <hi>falſe Glass,</hi> it will repreſent you with an <hi>ugly Face;</hi> you have hitherto had the repute of an <hi>Ancient,</hi> and <hi>Grave People;</hi> but if you chooſe <hi>raw Saplings, green Heads, unexperienc'd Children,</hi> the World will judge of you as they once did of the <hi>Grecians,</hi> That you were either <hi>always Children,</hi> or are grown <hi>twice Children;</hi> you have formerly had the Character of a <hi>Sober, Temperate Nation,</hi> but if you chuſe <hi>Drunkards</hi> to repre<g ref="char:EOLhyphen"/>ſent you, they will conclude that you are all <hi>Drunk;</hi> and it has ſometimes been your glory, that you were a <hi>Generous People,</hi> but if you ſend up a company of <hi>ſordid, ſaleable, mercenary Souls</hi> to <hi>repreſent</hi> (or rather to <hi>betray</hi>) you, you will forfeit that Glory, and the World will judge that you your ſelves were <hi>Mercenary.</hi>
+            </p>
+            <pb n="2" facs="tcp:53199:2"/>
+            <p n="4">4. Upon what terms our <hi>Civil</hi> and <hi>Religious Liberties</hi> now ſtand, your <hi>own Fears,</hi> which I perceive are grown Univerſal, by this time have informed you, what brisk Attempts have been made upon Both you know; what gallant Eſſayes the <hi>late Houſe of Commons</hi> have made to Se<g ref="char:EOLhyphen"/>cure both, you muſt thankfully own; how your Expectations have been fruſtrated, your Hopes blaſted, you feelingly bewail; by what Counſels you have been defeated, in the Diſſo<g ref="char:EOLhyphen"/>lution of Parliaments, you cannot be ignorant; and that the Remedy of all theſe Evils is in, and from your ſelves (under God) there needs no proof; what an Excellent Spirit was pour<g ref="char:EOLhyphen"/>ed out upon you in your laſt Elections, we all admire. That you may keep up the ſame Spi<g ref="char:EOLhyphen"/>rit, is the Hope of thoſe that Love you, the Terrour of thoſe that Hate you, and the onely De<g ref="char:EOLhyphen"/>sign of this Humble Addreſs; wherein, that you may be directed, I ſhall briefly and plainly, 1. Shew who are your Enemies. 2. What Deſigns they have upon you. 3. Lay down thoſe Rules, which if faithfully attended to, will diſappoint your Enemies, and make, or continue you yet a happy People.</p>
+            <div type="part">
+               <head>I. <hi>Englands Enemies.</hi>
+               </head>
+               <p>Some of your Enemies are ſo <hi>open and bare-faced,</hi> that the Darkeſt Night of Politick Re<g ref="char:EOLhyphen"/>ſerve cannot hide them from your obſervance; others again, are ſo ſecret, and cloſe, that the brighteſt day cannot ſufficiently diſcover them, but whoever ſhall come under theſe enſuing Characters, you may warrantably ſet a mark upon them, as your inveterate and ſworn Ad<g ref="char:EOLhyphen"/>verſaries.</p>
+               <p n="1">1. They that would flatter you into a belief, that there is no ſuch thing as a Deſign upon you, as Men, and Chriſtians, do really Deſign in both theſe Intereſts to undermine you; their Policy lies in making you <hi>Secure</hi> in your ſelves, that you may not be <hi>Secure</hi> from themſelves; could they once ſing you aſleep, their Work were eaſie to cut your Throats; could they once lift you up to the <hi>Pinacle of Preſumption,</hi> they would ſoon throw you headlong into <hi>deſperation;</hi> and when they have once mounted you above a <hi>reaſonable Fear,</hi> they would ſink you below all <hi>comfortable Hope.</hi>
+               </p>
+               <p n="2">2. Eſpecially they whoſe ſteeled <hi>Impudence</hi> has imboldened them to Arraign the <hi>Juſtice</hi> of the whole Nation, in denying that horrid and devilliſh Plot againſt <hi>His Majeſties Perſon,</hi> the <hi>Government, and Religion of the Land:</hi> It is the glory of an <hi>Artiſt</hi> to <hi>conceal his Art;</hi> and the Maſter-piece of <hi>Romiſh Plotters</hi> to conceal their Plots: and whilſt they would deliver notori<g ref="char:EOLhyphen"/>ous Traytors from deſerved Puniſhment, would as readily expoſe Loyal Subjects to that which is undeſerved.</p>
+               <p n="3">3. Since Parliaments are our <hi>Catholicon,</hi> or <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Remedy</hi> againſt <hi>
+                     <g ref="char:V">Ʋ</g>niverſal</hi> or <hi>Catholick Maladies;</hi> you muſt conclude them Enemies to the Nations Life, who would remove the Phy<g ref="char:EOLhyphen"/>ſicians in that Critical minute, when the Patient muſt either ſpeedily recover, or immediately dye. What you are then to judge of thoſe Evil Counſellors, who adviſed the Diſſolution of two Parliaments in one year, when we are ſure there was never a year of more Danger, nor a Parliament of more ability to prevent it, is eaſie to determine, but not ſo eaſie to reſolve, whether the loſs of that Excellent Law, for a <hi>Parliament</hi> once in <hi>three years,</hi> or the having <hi>three Parliaments in one year,</hi> was the more pernicious to <hi>England's</hi> Safety?</p>
+               <p n="4">4. If they who reproach your Repreſentatives, do interpretatively reproach you whom they repreſent, you know amongſt what ſort of men to diſcover your Enemies. Such, who in their Scurrilous Pasquils, have loaded the moſt Loyal, Zealous, and Wiſe Patriots, with Scan<g ref="char:EOLhyphen"/>dalous Language, traduced their Perſons, miſconſtrued their Counſels, faſtened odious Suſpi<g ref="char:EOLhyphen"/>tions of Diſloyalty upon them, being outragious againſt them; becauſe they were able to re<g ref="char:EOLhyphen"/>ſcue an Innocent People out of their Unmerciful hands.</p>
+               <p n="5">5. In the ſame rank you muſt place thoſe who by ſubtile Artifices, and finer Sleights, ob<g ref="char:EOLhyphen"/>ſtructed Parliamentary Proceedings: who by unſeaſonable and unreaſonable inſiſting upon Un-parliamentary, Un-preſidented Privileges, did hinder thoſe excellent Bills from paſſing in<g ref="char:EOLhyphen"/>to Acts, which had been the Bulwarks of the Nation againſt Popery; who by various, and ſecret Methods damm'd up the Current of Juſtice, that it could not teach the Capital Offend<g ref="char:EOLhyphen"/>ers, who triumph in their preſent Immunity, and the hopes of future Indempnity.</p>
+               <p n="6">6. Forget not to put them into the Black-bill, who being intruſted by the Nation, to repre<g ref="char:EOLhyphen"/>ſent them in the former Parliament, baſely ſold themſelves, their Votes, and You, for Annual Penſions, Gainful Offices, and can give you a reaſon too, why they have ſold you, becauſe they ſay, they firſt bought you: and 'tis but reaſonable that they who purchaſed <hi>your</hi> Votes at the Election in the Countrey, ſhould ſell <hi>their own</hi> Votes in the Houſe, and that at as dear rates as they can.</p>
+               <p n="7">7. They whoſe ſtiffneſs and Pride would not yield to an accommodation amongſt differing Proteſtants, who have begun, continued, fomented, and encreaſed Diviſions amongſt our ſelves, are the moſt effectual Friends to the Popiſh, and therefore Enemies to the <hi>Eng<g ref="char:EOLhyphen"/>liſh Intereſt,;</hi> who, whilſt they do obſtinately perſiſt in impoſing unreaſonable terms of Uni<g ref="char:EOLhyphen"/>on,
+<pb n="3" facs="tcp:53199:2"/>
+have advanced Diſ-union, weakened the hands of Friends, ſtrengthened the hands of Ene<g ref="char:EOLhyphen"/>mies, and learn'd from <hi>Machiavel</hi> their Tutor, and the Devil their Father, to deſtroy effectually by dividing irreconcileably; and have laid ſuch ſinful terms of Peace, as have made Peace de<g ref="char:EOLhyphen"/>ſperate, unleſs Diſſenters could purchaſe a Peace with us at the dear rate of a War with God, wherein Conſcience muſt always be in Arms, and the Soul the Seat of War.</p>
+               <p n="8">8. Whoever have been Neutrals in this laſt grand Conteſt between the Proteſtant Religion and Popery, ought to be more than ſuſpected for your Enemies: He that is not with us in extremity, is certainly againſt us; Theſe only wait the good hour, when they may ſafely ſhew their Teeth, and bite, which now they hide.</p>
+               <p n="9">9. There is none more implacably your Enemy, than that Perſon whoſe Intereſt it is to de<g ref="char:EOLhyphen"/>ſtroy you: They therefore that muſt neither eat nor drink, except you ſtarve, that muſt go in Rags, except you go naked, are taught to fleece you, that they may keep themſelves warm; I mean, as you eaſily know, the whole Liſt of <hi>Penſioners,</hi> who ſold you once to get Bread, and would gladly ſell you once again that they may get Drink; they have be<g ref="char:EOLhyphen"/>trayed us once, and thereby proved themſelves Knaves; if they be truſted, and betray us again, we ſhall prove our ſelves Fools.</p>
+               <p n="10">10. Whoever have their Dependance upon Foreign Princes or States, are under a ſtrong Obligation to ſee you ruin'd: for your own Reaſon will tell you, that no Foreign Power will prodigally throw away his Piſtols, where he expects not an Harveſt anſwerable to his Seed: Theſe are thoſe Degenerated <hi>Engliſhmen,</hi> who having forſaken the Intereſt of their Native Countrey, have ſold themſelves to an Outlandiſh Intereſt, that they may the better gratifie their own Ambition, and thoſe potent Luſts which their own meaner Fortunes could not otherwiſe ſeed and ſatiate.</p>
+               <p n="11">11. Laſtly, They that cry up Prerogative againſt the true Liberty of the Subject, are Enemies both to Prerogative and Liberty, and would ſwell up the one to the conſumption of the whole; for when all the Spirits are drawn to one part, the reſt muſt ſenſibly waſte, for want of their due and proper Nouriſhment.</p>
+            </div>
+            <div type="part">
+               <head>II. <hi>What Deſign theſe our Enemies have upon us.</hi>
+               </head>
+               <p>To know our Danger, and our Enemies Deſigns, is a good ſtep to prevent the one, and diſappoint the other: The Bird will periſh without pity, that haſtens to the Snare laid in her ſight: let me therefore warn you of the Snare, and if you like it, put in your feet.</p>
+               <p n="1">1. One great Deſign is to render Parliaments odious, and thereby uſeleſs; which they manage by repreſenting our Repreſentatives, as men of Factious, Seditious, Diſloyal Spirits, and when they can ſay nothing more, turn us over to <hi>Fourty two,</hi> for a parallel: though ſome wiſe men have thought they were very imprudent in making the compariſon; for if <hi>Forty Two</hi> had no other deſign than to ſecure the <hi>Proteſtant Religion,</hi> and our Civil Proprieties, as 'tis evident this of <hi>Seventy Nine</hi> had not, the Parallel will rather juſtifie <hi>That,</hi> than condemn <hi>This.</hi>
+               </p>
+               <p n="2">2. What Deſign there may be of a Standing Army, I had rather any ſhould ſpeak than my ſelf; but this is ſure, a more accurſed Deſign againſt our Peace and Propriety could not be formed, when every lowzy Red-coat ſhall pluck the Bread out of our Children's Mouths, and the Cloaths off our own Backs, when they are once hunger-bitten for want of Pay; and theſe muſt be <hi>Lurdanes</hi> in every Houſe, and the Proprietor wait upon his Tren<g ref="char:EOLhyphen"/>cher. Whether <hi>Danby</hi> had any ſuch Deſign upon us, will be ſeen in his Trial, though we want not frequent Trials that ſuch a Deſign there is.</p>
+               <p n="3">3. That there has been a Deſign to Corrupt all Elections, and Debauch the Members Elected, that ſo a Parliament, which in its Pure and Primitive Conſtitution is the beſt of things, may by Corruption, become the worſt, is too clear from thoſe Voluminous Liſts of <hi>Penſioners,</hi> which, formerly, and of late, have given us our Information.</p>
+               <p n="4">4. Though I would not have you Suſpitious, yet I would have you Cautelous, and ad<g ref="char:EOLhyphen"/>viſe with your ſelves, whether there be not ſome Endeavours to make <hi>Will</hi> and <hi>Pleaſure</hi> tri<g ref="char:EOLhyphen"/>umph over <hi>Right</hi> and <hi>Law?</hi> You may warrantably have a vigilant eye upon thoſe who cry up an <hi>Abſolutely Abſolute Power</hi> in the Prince; That we are Vaſſals; That the Prince may Impoſe Taxes upon the Subjects, which they in Conſcience are bound to obey, upon pain of Eternal Damnation: you may do well to take timely notice of this Deſign: Your <hi>All is at Stake,</hi> and that too great a Concern to be ventur'd upon an <hi>After-Game.</hi>
+               </p>
+               <p n="5">5. And your Religion ſeems to be in Apparent Hazard; which is more worth than all the reſt; and that, for which all the reſt are deſirable. How difficult is it to get a Law paſs, that may effectually barrout Popery, Experience has taught you: What Hopes <hi>Papiſts</hi> have of the <hi>Succeſſion,</hi> you underſtand; and how to prevent that Blow to Religion, if the <hi>Ram<g ref="char:EOLhyphen"/>pant Jeſuits</hi> ſhould give a Blow to the Life of our preſent Soveraign, you cannot eaſily ima<g ref="char:EOLhyphen"/>gine.</p>
+               <pb n="4" facs="tcp:53199:3"/>
+               <p n="6">6. And who knows what Danger you are in of loſing your Parliaments? Theſe frequent Diſſolutions, with ſome prognoſticate an Annihilation; and then the Nation, whoſe Eyes are ſcarce dry from their Lamentations for their Short-liv'd Parliaments, muſt weep, as if it were but one great Eye, for the Funeral of our Ancient Government.</p>
+            </div>
+            <div type="part">
+               <head>III. <hi>The Means to prevent our <g ref="char:V">Ʋ</g>tter Ruine.</hi>
+               </head>
+               <p>You are now (<hi>Dear Countreyment!</hi>) upon the Brink of the Brink of Ruine, and cannot be undone but by your own Choice: Let it not be ſaid, when both are ſet before you, <hi>You have choſen Miſery before Felicity.</hi>
+               </p>
+               <p n="1">1. Keep a tender Eye in your preſent Choice upon thoſe Worthy Perſons which anſwer<g ref="char:EOLhyphen"/>ed the Truſt Repoſed in them the laſt Parliament; and where you find your ſelves miſta<g ref="char:EOLhyphen"/>ken (and in ſome you were ſadly miſtaken) rectifie your Errour, and let your <hi>Second-Thoughts</hi> compenſate whatever Failing you were guilty of in your laſt Choice.</p>
+               <p n="2">2. Be reſolved (againſt all Temptations) to chuſe no <hi>Minors:</hi> Can you judge them fit to diſpoſe of your Liberties, Lives, Eſtates and Religion, who cannot legally diſpoſe of their own Eſtates, or themſelves? What Security can they give you, that they will not give a<g ref="char:EOLhyphen"/>way yours and you, whoſe Bond in the Eye of the Law will not be taken for Forty Shillings?</p>
+               <p n="3">3. Set a black Brand upon thoſe notorious <hi>Penſioners</hi> (now well known to all the World) who would ſell their God, their King, their Countrey, for morſels of Bread: What Protecti<g ref="char:EOLhyphen"/>on do you expect from them, who cannot ſhew their Faces with confidence, without a Prote<g ref="char:EOLhyphen"/>ction, either in, or out of Parliament? Will you ſecure them within the Walls of the <hi>Houſe of Commons,</hi> who were better ſecured within the Walls of the <hi>Common Gaol?</hi> Who can never pay their Debts contracted by their Prodigality, but out of your Purſes; and muſt run you in, to get themſelves out of their Mortgages?</p>
+               <p n="4">4. Do not once think of opening your mouths for ſuch as are not their own men; who are pre-engaged to their great Maſters, and muſt follow their Whiſtle: Their Offices, Pre<g ref="char:EOLhyphen"/>ferments, Salaries, Court-employments lie ſo near their hearts, that they have no room for their Countrey.</p>
+               <p n="5">5. Suſpect them who by Terrour and Threats would aw you, or by Bribery, Feaſtings, Entertainments would allure you to proſtitute your Voices for their Elections; you may be aſſured they would never bid ſo high for your Suffrages, but that they know where to make their Markets. Chuſe the worthy unwilling perſon, before the complementing unworthy man, whoſe extraordinary forwardneſs prognoſticates he ſeeks not your Good, but his own, ſeparate from the Publick.</p>
+               <p n="6">6. Let not Beggars be your Repreſentatives; they will cut large Thongs out of your Hides, to ſpare their own; 'tis a pleaſure to them to become Levellers, and to make you as poor as themſelves: How can they judge what is expedient for the Nation to ſpare, whoſe only care it is to get a piece of Money to ſpend?</p>
+               <p n="7">7. Get men of Courage, who will not be Hector'd out of their Duties by the Frowns and Scowls of men: never had you more need to pitch upon the old <hi>Engliſh</hi> Spirit, that durſt be faithful and juſt againſt all Temptations. 'Tis God's own Counſel, that you Elect men after his own heart, ſuch as fear God, and not the Faces of Great ones. Remember who they were that could never yet reſiſt Smile or Frown, but tamely ſunk below their own Convictions, and knew the evil they did, yet durſt not but commit it.</p>
+               <p n="8">8. Set your eyes, fix your hearts upon perſons of as large principles as the Goſpel will war<g ref="char:EOLhyphen"/>rant you. Narrow Souls that will own none but thoſe that bear their own Image and Super<g ref="char:EOLhyphen"/>ſcription, will ſooner raiſe Perſecution at home, than ſecure us from Popery, and Invaſion from abroad: The great Intereſt of <hi>England</hi> at this day, is, to tolerate the tolerable, to bear with the weak, to encourage the conſcientious, and to reſtrain none but ſuch as would reſtrain all beſides themſelves.</p>
+               <p n="9">9. Make your Truſt as eaſie a Burden as may be, to them you Elect. The Truſt it ſelf is Burden enough, the Charges of their Attendance great enough; and 'tis diſingenuous to ſuf<g ref="char:EOLhyphen"/>fer them to ſink in their Eſtates, who zealouſly endeavour to preſerve you from ſinking.</p>
+               <p n="10">10. Lay Obligations upon thoſe you chuſe, that they labour to ſecure the True <hi>Proteſtant Religion</hi> for the future, that they examine the preſent Plot, purſue the Plotters, and impar<g ref="char:EOLhyphen"/>tially bring them to 'condign puniſhment, how high ſoever they look, and with whatſoever Supports they bear up their confident Faces: Let them be entreated alſo, when Grievances are redreſſed, Religion ſecured, the Nations Peace ſetled and ſtabliſhed, liberally to ſupply the Government, to diſcharge Publick Debts, that there may be the moſt happy Cloſure be<g ref="char:EOLhyphen"/>tween His Sacred Majeſty and His People, that ever any Age could yet boaſt of.</p>
+               <p>Theſe things being humbly laid before you, I ſhall join with you all in wiſhing a Happy Succeſs to your Elections, and a Bleſſed Iſſue upon the Unanimous Counſels of your <hi>REPRESENTATIVES.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
